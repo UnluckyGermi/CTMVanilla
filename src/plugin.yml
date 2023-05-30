@@ -1,0 +1,9 @@
+name: CTMVanilla
+version: 1.0
+author: Germi123re
+main: germi.ctmvanilla.Main
+commands:
+    ctm:
+        description: All the comands from the plugin.
+        usage: /ctm [Command]
+    
